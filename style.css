@@ -1,0 +1,21 @@
+ #mainTable {
+    border: 1;
+    border-style: solid;
+    border-color: #000;
+    color: rgb(219, 0, 0);
+}
+
+#mainParagraph {
+    border: 1;
+    border-style: solid;
+    border-color: #000; 
+}
+
+p.mainClassName {
+    border: 1;
+    border-style: solid;
+    border-color: #000; 
+}
+p.test {
+    color: rgb(85, 10, 10);
+}
